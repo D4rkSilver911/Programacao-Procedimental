@@ -1,0 +1,119 @@
+1:5:Coimbra:Portugal
+1:Cartola:10:00:24:00
+1:Bar AAC:20:00:04:00
+4:Universidade de Coimbra:08:00:20:00
+2:Jardim da Sereia:00:00:00:00:
+2:Jardim Botanico:00:00:00:00:
+
+2:3:Guarda:Portugal
+1:O Praca:12:00:3:00
+1:Dupepe:9:00:24:00
+1:Alameda:9:00:23:00
+
+3:6:Algarve:Portugal
+1:Lick:22:00:06:00
+1:Bliss:22:00:06:00
+1:Seven:22:30:06:30
+2:Aquashow:09:00:21:00:
+2:Zoomarine:09:00:21:00:
+2:Slidesplash:09:00:20:00:
+
+4:6:Lisboa:Portugal
+3:Oceanario:09:00:19:00
+3:Museu Historia Nacional:09:00:19:30
+4:Universidade de Lisboa:08:00:20:00
+4:ISCTE:08:00:18:30
+4:Universidade Catolica:08:30:19:30
+1:Urban:22:00:06:30
+
+5:4:Porto:Portugal
+1:Escada:15:00:04:00
+4:Universidade do Porto:09:00:19:45
+3:Torre dos Clerigos:08:15:18:45
+3:Galeria da Biodiversidade:09:30:19:15
+
+6:3:Madeira:Portugal
+2:Jardim Botanico:00:00:00:00:
+2:Camara dos Lobos:00:00:00:00:
+3:Museu CR7:00:00:00:00
+
+7:5:New York:USA
+3:Museu Historia Natural:08:45:18:45
+2:Central Park:00:00:00:00:
+2:Bronx Zoo:09:15:18:45:
+1:Hard Rock Cafe:07:30:23:30
+1:StarBucks:07:45:23:15
+
+8:3:Paris:Franca
+3:Museu do Louvre:08:45:21:45
+2:DisneyLand:09:00:22:00:
+2:Torre Eiffel:00:00:00:00:
+
+9:8:Londres:Inglaterra
+1:Hard Rock Cafe:07:30:23:45
+2:London Eye:10:00:22:00
+3:Science Museum:09:00:19:00
+2:Buckingham Palace:09:00:17:00
+2:Big Ben:07:30:17:45
+1:Discoteca Londres A:22:00:07:15
+1:Discoteca Londres B:21:45:07:00
+1:Discoteca Londres C:21:40:06:45
+
+10:3:Madrid:Espanha
+3:Museu Real Madrid:10:00:19:00
+2:Plaza de Espanha:00:00:00:00
+3:Museu do Prado:10:00:19:45
+
+11:3:Barcelona:Espanha
+3:Sagrada Familia:06:00:22:00
+3:Museu Picasso:08:30:21:30
+3:Estadio Camp Nou:08:15:19:30
+
+12:5:Las Vegas:USA
+1:Casino LV A:00:00:00:00
+1:Casino LV B:00:00:00:00
+1:Casino LV C:00:00:00:00
+1:Discoteca LV A:00:00:00:00
+1:Discoteca LV B:00:00:00:00
+
+13:3:Veneza:Italia
+2:Praca de Sao Marcos:00:00:00:00
+2:Ponte de Rialto:00:00:00:00
+3:Museu dell Accademia:06:00:22:00
+
+14:3:Sevilha:Espanha
+2:Parque Aquatico Sevilha A:07:30:22:00
+2:Parque Aquatico Sevilha B:08:00:21:30
+2:Parque Aquatico Sevilha C:08:30:22:00
+
+15:3:Braga:Portugal
+2:Parque Diversoes Braga A:07:50:22:15
+2:Parque Diversoes Braga B:08:00:21:45
+1:Cafe Braga A:09:00:22:00
+
+16:3:Setubal:Portugal
+3:Museu Setubal A:08:00:20:00
+3:Museu Setubal B:09:00:21:00
+3:Museu Setubal C:08:45:22:00
+
+17:4:Aveiro:Portugal
+1:Discoteca Aveiro A:21:00:06:00
+1:Cafe Aveiro B:12:00:02:00
+2:Parque Diversoes Aveiro A:09:00:22:00
+2:Parque Botanico:00:00:00:00
+
+18:3:Viseu:Portugal
+4:Universidade Viseu A:08:00:19:00
+4:Universidade Viseu Catolica:09:00:18:30
+1:Cafe Viseu A:11:00:05:00
+
+19:4:Oslo:Noruega
+2:Parque Natural Oslo A:00:00:00:00
+2:Parque Natural Oslo B:00:00:00:00
+4:Universidade Oslo A:08:00:20:00
+4:Universidade Oslo B:08:30:20:00
+
+20:3:Miami:USA
+1:Discoteca Miami A:20:00:07:00
+1:Discoteca Miami B:22:00:08:00
+2:Parque Diversoes Miami A:08:00:23:00
